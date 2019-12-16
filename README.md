@@ -1,3 +1,10 @@
+지역산업의 "지역산업의 인공지능 활용방안"
+
+코딩하는 공익 반병현 CTO
+http://sangsang.farm/
+[1] https://www.imaso.co.kr/archives/4296
+상상텃밭, "AI 활용한 보급현 스마트팜"
+
 인공지능 식물재배기
 - 융합: 농업, IT, 빅데이터, AI
 - PH, EC, 라즈베리파이, LED
