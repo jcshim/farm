@@ -1,3 +1,13 @@
+인공지능 식물재배기
+- 융합: 농업, IT, 빅데이터, AI
+- PH, EC, 라즈베리파이, LED
+
+LED 재배기, 수경재배 양액만들기 양액관리 Hydroponics 온도
+https://youtu.be/diYw8hFathQ
+
+자동 급수기 설치한 수직형 상추 재배기
+https://youtu.be/_tbMixIKi04
+
 2세대 스마트팜: 
 작물의 환경과 생체 정보를 기반으로 한 빅데이터를 통해 이공지능이 추론해 사람을 대신할 수 있는 시스템
 [1] https://youtu.be/zEAFOozJ-XI
